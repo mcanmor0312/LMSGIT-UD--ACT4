@@ -1,0 +1,59 @@
+{
+    "empleados": [
+      {
+        "nombre": "Alberto Benitez",
+        "edad": 69,
+        "cargo": "Desarrollador",
+        "salario": 6487,
+        "proyectos": [
+          {
+            "nombre": "Ark Survival World",
+            "fecha_inicio": "2022-12-01",
+            "tareas": ["Desarrollo de el videojuego", "Implementación de mods en el juego"]
+          },
+          {
+            "nombre": "Servidor de DINOWORLD",
+            "fecha_inicio": "2023-03-15",
+            "tareas": ["Implementación de dinosaurios en el juego", "Optimización del rendimiento"]
+          }
+        ]
+      },
+      {
+        "nombre": "Javier Calvillo",
+        "edad": 21,
+        "cargo": "Programador",
+        "salario": 3000,
+        "proyectos": [
+          {
+            "nombre": "Pokemons al ataque",
+            "fecha_inicio": "2020-09-11",
+            "tareas": ["Programar los ataques", "Ejecutar el programa"]
+          },
+          {
+            "nombre": "Pokemons a la defensa",
+            "fecha_inicio": "2020-12-12",
+            "tareas": ["Programar la defensa", "Ejecutar el programa"]
+          }
+        ]
+      },
+      {
+        "nombre": "Francihco Ruiz",
+        "edad": 42,
+        "cargo": "Gestor Analista",
+        "salario": 2000,
+        "proyectos": [
+          {
+            "nombre": "Aplicación de gestiones",
+            "fecha_inicio": "2000-03-12",
+            "tareas": ["Definición de gestiones", "Marketing de la aplicación"]
+          },
+          {
+            "nombre": "Aplicación de suministros",
+            "fecha_inicio": "2001-06-10",
+            "tareas": ["Definición de suministros", "Marketing de la aplicación"]
+          }
+        ]
+      }
+    ]
+  }
+  

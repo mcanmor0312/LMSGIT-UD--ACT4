@@ -1,0 +1,26 @@
+{
+    "empleados": [
+      {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "cargo": "Desarrollador",
+        "salario": 55000,
+        "salario2": 61111
+      },
+      {
+        "id": 2,
+        "nombre": "María Rodríguez",
+        "cargo": "Analista de Datos",
+        "salario": 60000,
+        "salario2":66666
+        
+      },
+      {
+        "id": 3,
+        "nombre": "Carlos Gómez",
+        "cargo": "Diseñador",
+        "salario": 75000,
+        "salario2": 83333
+      }
+    ]
+  }
